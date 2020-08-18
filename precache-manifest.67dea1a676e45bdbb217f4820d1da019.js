@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7c1194369de1794bd0762ad46bebd079",
+    "revision": "b3c3307a730f631ddb469c148c2ce81e",
     "url": "/vitalis-wiens/Software-Engineering/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vitalis-wiens/Software-Engineering/static/css/2.47e06e2e.chunk.css"
   },
   {
-    "revision": "0d06b0ef951fa3c97be2",
+    "revision": "ad7cfaede1ec4c152839",
     "url": "/vitalis-wiens/Software-Engineering/static/css/main.1d1f6e75.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vitalis-wiens/Software-Engineering/static/js/2.515830ca.chunk.js.LICENSE"
   },
   {
-    "revision": "0d06b0ef951fa3c97be2",
-    "url": "/vitalis-wiens/Software-Engineering/static/js/main.4550be62.chunk.js"
+    "revision": "ad7cfaede1ec4c152839",
+    "url": "/vitalis-wiens/Software-Engineering/static/js/main.9f383852.chunk.js"
   },
   {
     "revision": "2864ae0bdf20e7c7dcff",

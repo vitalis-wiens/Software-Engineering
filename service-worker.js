@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/vitalis-wiens/Software-Engineering/precache-manifest.e29a3f2efba1b20de46c0ce1112d0480.js"
+  "/vitalis-wiens/Software-Engineering/precache-manifest.67dea1a676e45bdbb217f4820d1da019.js"
 );
 
 self.addEventListener('message', (event) => {
