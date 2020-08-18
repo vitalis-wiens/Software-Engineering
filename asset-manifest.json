@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/vitalis-wiens/Software-Engineering/static/css/main.1d1f6e75.chunk.css",
-    "main.js": "/vitalis-wiens/Software-Engineering/static/js/main.3025eb5e.chunk.js",
-    "main.js.map": "/vitalis-wiens/Software-Engineering/static/js/main.3025eb5e.chunk.js.map",
-    "runtime-main.js": "/vitalis-wiens/Software-Engineering/static/js/runtime-main.8ce01619.js",
-    "runtime-main.js.map": "/vitalis-wiens/Software-Engineering/static/js/runtime-main.8ce01619.js.map",
-    "static/css/2.47e06e2e.chunk.css": "/vitalis-wiens/Software-Engineering/static/css/2.47e06e2e.chunk.css",
-    "static/js/2.515830ca.chunk.js": "/vitalis-wiens/Software-Engineering/static/js/2.515830ca.chunk.js",
-    "static/js/2.515830ca.chunk.js.map": "/vitalis-wiens/Software-Engineering/static/js/2.515830ca.chunk.js.map",
-    "index.html": "/vitalis-wiens/Software-Engineering/index.html",
-    "precache-manifest.e84ecc74344af60ef90dfa8ab62fa8a1.js": "/vitalis-wiens/Software-Engineering/precache-manifest.e84ecc74344af60ef90dfa8ab62fa8a1.js",
-    "service-worker.js": "/vitalis-wiens/Software-Engineering/service-worker.js",
-    "static/css/2.47e06e2e.chunk.css.map": "/vitalis-wiens/Software-Engineering/static/css/2.47e06e2e.chunk.css.map",
-    "static/css/main.1d1f6e75.chunk.css.map": "/vitalis-wiens/Software-Engineering/static/css/main.1d1f6e75.chunk.css.map",
-    "static/js/2.515830ca.chunk.js.LICENSE": "/vitalis-wiens/Software-Engineering/static/js/2.515830ca.chunk.js.LICENSE",
-    "static/media/legend.svg": "/vitalis-wiens/Software-Engineering/static/media/legend.5378cb25.svg"
+    "main.css": "/Software-Engineering/static/css/main.1d1f6e75.chunk.css",
+    "main.js": "/Software-Engineering/static/js/main.4c0c4989.chunk.js",
+    "main.js.map": "/Software-Engineering/static/js/main.4c0c4989.chunk.js.map",
+    "runtime-main.js": "/Software-Engineering/static/js/runtime-main.52962855.js",
+    "runtime-main.js.map": "/Software-Engineering/static/js/runtime-main.52962855.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/Software-Engineering/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.515830ca.chunk.js": "/Software-Engineering/static/js/2.515830ca.chunk.js",
+    "static/js/2.515830ca.chunk.js.map": "/Software-Engineering/static/js/2.515830ca.chunk.js.map",
+    "index.html": "/Software-Engineering/index.html",
+    "precache-manifest.e7cc85148ef674ba4242fc2cd905900f.js": "/Software-Engineering/precache-manifest.e7cc85148ef674ba4242fc2cd905900f.js",
+    "service-worker.js": "/Software-Engineering/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/Software-Engineering/static/css/2.47e06e2e.chunk.css.map",
+    "static/css/main.1d1f6e75.chunk.css.map": "/Software-Engineering/static/css/main.1d1f6e75.chunk.css.map",
+    "static/js/2.515830ca.chunk.js.LICENSE": "/Software-Engineering/static/js/2.515830ca.chunk.js.LICENSE",
+    "static/media/legend.svg": "/Software-Engineering/static/media/legend.5378cb25.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.8ce01619.js",
+    "static/js/runtime-main.52962855.js",
     "static/css/2.47e06e2e.chunk.css",
     "static/js/2.515830ca.chunk.js",
     "static/css/main.1d1f6e75.chunk.css",
-    "static/js/main.3025eb5e.chunk.js"
+    "static/js/main.4c0c4989.chunk.js"
   ]
 }
