@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/Software-Engineering/static/css/main.9381a894.chunk.css",
-    "main.js": "/Software-Engineering/static/js/main.8ce5c471.chunk.js",
-    "main.js.map": "/Software-Engineering/static/js/main.8ce5c471.chunk.js.map",
-    "runtime-main.js": "/Software-Engineering/static/js/runtime-main.52962855.js",
-    "runtime-main.js.map": "/Software-Engineering/static/js/runtime-main.52962855.js.map",
-    "static/css/2.47e06e2e.chunk.css": "/Software-Engineering/static/css/2.47e06e2e.chunk.css",
-    "static/js/2.7cb3a772.chunk.js": "/Software-Engineering/static/js/2.7cb3a772.chunk.js",
-    "static/js/2.7cb3a772.chunk.js.map": "/Software-Engineering/static/js/2.7cb3a772.chunk.js.map",
-    "index.html": "/Software-Engineering/index.html",
-    "precache-manifest.fcbe23c9d4d70a801ffd137ecb0c480e.js": "/Software-Engineering/precache-manifest.fcbe23c9d4d70a801ffd137ecb0c480e.js",
-    "service-worker.js": "/Software-Engineering/service-worker.js",
-    "static/css/2.47e06e2e.chunk.css.map": "/Software-Engineering/static/css/2.47e06e2e.chunk.css.map",
-    "static/css/main.9381a894.chunk.css.map": "/Software-Engineering/static/css/main.9381a894.chunk.css.map",
-    "static/js/2.7cb3a772.chunk.js.LICENSE": "/Software-Engineering/static/js/2.7cb3a772.chunk.js.LICENSE",
-    "static/media/legend.svg": "/Software-Engineering/static/media/legend.ee93b5bb.svg"
+    "main.css": "/vitalis-wiens/Software-Engineering/static/css/main.1d1f6e75.chunk.css",
+    "main.js": "/vitalis-wiens/Software-Engineering/static/js/main.d41e2394.chunk.js",
+    "main.js.map": "/vitalis-wiens/Software-Engineering/static/js/main.d41e2394.chunk.js.map",
+    "runtime-main.js": "/vitalis-wiens/Software-Engineering/static/js/runtime-main.8ce01619.js",
+    "runtime-main.js.map": "/vitalis-wiens/Software-Engineering/static/js/runtime-main.8ce01619.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/vitalis-wiens/Software-Engineering/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.515830ca.chunk.js": "/vitalis-wiens/Software-Engineering/static/js/2.515830ca.chunk.js",
+    "static/js/2.515830ca.chunk.js.map": "/vitalis-wiens/Software-Engineering/static/js/2.515830ca.chunk.js.map",
+    "index.html": "/vitalis-wiens/Software-Engineering/index.html",
+    "precache-manifest.02b528f875b44ef2cb965b91dcd1af0b.js": "/vitalis-wiens/Software-Engineering/precache-manifest.02b528f875b44ef2cb965b91dcd1af0b.js",
+    "service-worker.js": "/vitalis-wiens/Software-Engineering/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/vitalis-wiens/Software-Engineering/static/css/2.47e06e2e.chunk.css.map",
+    "static/css/main.1d1f6e75.chunk.css.map": "/vitalis-wiens/Software-Engineering/static/css/main.1d1f6e75.chunk.css.map",
+    "static/js/2.515830ca.chunk.js.LICENSE": "/vitalis-wiens/Software-Engineering/static/js/2.515830ca.chunk.js.LICENSE",
+    "static/media/legend.svg": "/vitalis-wiens/Software-Engineering/static/media/legend.5378cb25.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.52962855.js",
+    "static/js/runtime-main.8ce01619.js",
     "static/css/2.47e06e2e.chunk.css",
-    "static/js/2.7cb3a772.chunk.js",
-    "static/css/main.9381a894.chunk.css",
-    "static/js/main.8ce5c471.chunk.js"
+    "static/js/2.515830ca.chunk.js",
+    "static/css/main.1d1f6e75.chunk.css",
+    "static/js/main.d41e2394.chunk.js"
   ]
 }
